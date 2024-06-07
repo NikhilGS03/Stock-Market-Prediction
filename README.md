@@ -7,4 +7,4 @@ Two variables are derived- 'Close' & 'Strategy'.
 The Close price is evaluated using Symmetric Mean Absolute Percentage Error (SMAPE). 
 The Strategy will be evaluated using Accuracy.
 
-# However, there is still slight fine-tuning which can be done inorder to receive a lower final score (wighted sum of 2 metrics) to improve overall prediction accuracy. 
+*However, there is still slight fine-tuning which can be done inorder to receive a lower final score (wighted sum of 2 metrics) to improve overall prediction accuracy.* 
